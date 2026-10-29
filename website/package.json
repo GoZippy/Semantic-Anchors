@@ -33,13 +33,13 @@
     "jsdom": "^28.1.0",
     "prettier": "^3.8.1",
     "tailwindcss": "^4.2.1",
-    "vite": "^7.3.1",
-    "vitest": "^4.1.8"
+    "vite": "^7.3.7",
+    "vitest": "^5.0.5"
   },
   "dependencies": {
     "@asciidoctor/core": "^3.0.4",
     "@tailwindcss/typography": "^0.5.19",
-    "echarts": "^6.0.0"
+    "echarts": "^6.1.0"
   },
   "overrides": {
     "minimatch": ">=10.2.1",
